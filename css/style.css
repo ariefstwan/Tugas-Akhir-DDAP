@@ -108,6 +108,42 @@ p {
 	margin: 0 0 15px 0;
 }
 
+h6 {
+	font-size: 16px;
+	font-family: RobotoRegular;
+	color: #6f6f6f;
+}
+
+p6 {
+	font-size: 20px;
+	font-family: RobotoRegular;
+	color: #6f6f6f;
+}
+
+p7 {
+	font-size: 20px;
+	font-family: RobotoRegular;
+	color: #333333;
+}
+
+p8 {
+	font-size: 24px;
+	font-family: RobotoRegular;
+	color: #333333;
+	font-weight: bold;
+	padding-top: 15px
+	
+}
+p4 {
+	font-size: 16px;
+	font-family: RobotoRegular;
+	color: #333333;
+	font-weight: bold;
+	
+	
+	
+}
+
 a {
 	font-family: RobotoBold;
 	font-size: 18px;
@@ -211,6 +247,22 @@ ol {
 	background: #27AE60;
 	border: none;
 	border-radius: 0px 15px 15px 0px;
+}
+
+.sites-btn{
+	color: #ffffff;
+	font-weight: 800;
+	display: inline-block;
+	background: #27AE60;
+	border: none;
+	border-radius: 15px 15px 15px 15px;
+	height:40px;
+    width:400px;
+	margin-top: 20px;
+    text-transform: capitalize;
+    font-size: 15px;
+    padding: 10px 19px;
+    cursor: pointer
 }
 
 /* Preloder */
@@ -639,6 +691,54 @@ ol {
 	padding-left: 20px;
 	border-radius: 0px 15px 15px 0px;
 }
+.hero__search__formm {
+	width: 845px;
+	height: 250px;
+	border: 1px solid #27AE60;
+	padding-left: 18px;
+	padding-top: 10px;	
+	position: relative;
+	float: left;
+	border-radius: 15px;
+}
+
+.f-80 {
+    font-size: 80px
+}
+
+.form-group {
+    margin-bottom: 1.25em
+}
+
+.hero.hero-normal .hero__categories {
+	position: relative;
+}
+
+.form-material .form-control {
+    display: inline-block;
+    height: 43px;
+    width: 100%;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 9px;
+    background-color: rgb(245, 245, 245);
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-bottom: 1px solid #ccc
+}
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
+.hero.hero-normal .hero__search {
+	margin-bottom: 0;
+}
 
 .hero__search__form form input::placeholder {
 	color: #b2b2b2;
@@ -801,6 +901,18 @@ ol {
 	content: "";
 	opacity: 0;
 }
+
+.featured__item {
+	margin-bottom: 50px;
+}
+.featured__item__pics {
+	height: 200px;
+	width: 800px;
+	position: relative;
+	background: #ebebeb;
+	border-radius:  15px 15px 15px 15px;
+}
+
 
 .featured__item {
 	margin-bottom: 50px;
