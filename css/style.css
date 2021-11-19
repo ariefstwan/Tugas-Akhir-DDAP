@@ -249,6 +249,19 @@ ol {
 	border-radius: 0px 15px 15px 0px;
 }
 
+.ite-btn {
+	font-size: 14px;
+	color: #ffffff;
+	font-weight: 800;
+	text-transform: uppercase;
+	display: inline-block;
+	padding: 13px 30px 12px;
+	background: #27AE60;
+	border: none;
+	float:right;
+	margin: 5px 10px 5px 10px;
+}
+
 .sites-btn{
 	color: #ffffff;
 	font-weight: 800;
