@@ -39,7 +39,7 @@
 
 @font-face {
 	font-family: RobotoBold;
-	src: url(./fonts/Roboto-Bold.ttf);
+	src: url(./fonts/Roboto-Bold.ttf);butt
 	font-style: normal;
 	font-weight: bold;
 }
@@ -186,6 +186,16 @@ ol {
 	color: #1c1c1c;
 	font-weight: 700;
 	position: relative;
+}
+.breadcrumb-section {
+	display: flex;
+	align-items: center;
+	padding: 45px 0 40px;
+}
+.set-bg {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top center;
 }
 
 .section-title h2:after {
