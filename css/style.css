@@ -183,6 +183,22 @@ ol {
 	font-family: RobotoBold;
 	
 }
+.breadcrumb__option a {
+	display: inline-block;
+	font-size: 16px;
+	color: #ffffff;
+	font-weight: 700;
+	margin-right: 20px;
+	position: relative;
+}
+.breadcrumb__option {
+	display: inline-block;
+	font-size: 16px;
+	color: #ffffff;
+	font-weight: 700;
+	margin-right: 20px;
+	position: relative;
+}
 .section-title {
 	margin-bottom: 50px;
 	text-align: center;
@@ -250,11 +266,7 @@ ol {
 	margin: 0 auto;
 }
 
-.set-bg {
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: top center;
-}
+
 
 .spad {
 	padding-top: 100px;
@@ -1045,11 +1057,7 @@ ol {
 	color: #252525;
 }
 
-.featured__item__text h5 {
-	color: #252525;
-	font-weight: 700;
-	font-family: RobotoRegular;
-}
+
 
 /*---------------------
   Sidebar
