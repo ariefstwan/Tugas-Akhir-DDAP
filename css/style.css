@@ -216,6 +216,13 @@ ol {
 	margin-top: 70px;
 	margin-bottom: 70px;
 }
+.judul_hitam3 h2 {
+	font-size: 30px;
+	color: #000000;
+	font-weight: 700;
+	margin-top: 70px;
+	margin-bottom: 20px;
+}
 
 .shoping__cart__table table thead th {
 	font-size: 20px;
@@ -231,6 +238,7 @@ ol {
 	font-weight:normal!important ;
 	color: #1c1c1c;
 	display: inline-block;
+	font-family: "RobotoRegular";
 }
 .featured__item__text h5 {
 	color: #252525;
