@@ -223,6 +223,17 @@ ol {
 	margin-top: 70px;
 	margin-bottom: 20px;
 }
+
+.shoping__cart__table table thead th.shoping__product {
+	text-align: left;
+}
+
+.shoping__cart__table table tbody tr td {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid #ebebeb;
+}
+
 .shoping__cart__table table tbody tr td.shoping__cart__item {
 	width: 630px;
 	text-align: left;
@@ -232,7 +243,6 @@ ol {
 	display: inline-block;
 	margin-right: 25px;
 }
-
 .shoping__cart__table table thead th {
 	font-size: 20px;
 	color: #1c1c1c;
