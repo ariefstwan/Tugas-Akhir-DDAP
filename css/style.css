@@ -1011,9 +1011,10 @@ ol {
 }
 .featured__item__pics {
 	height: 149px;
-	width: 800px;
+	width: 850px;
 	position: relative;
-	background: #ebebeb;
+	background: #dcdcdc;
+	border: 1px solid #dcdcdc;
 	
 }
 
