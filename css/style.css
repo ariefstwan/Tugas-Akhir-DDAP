@@ -798,9 +798,10 @@ ol {
 .hero__search__formm {
 	width: 845px;
 	height: 230px;
-	border: 4px solid #27AE60;
+	border: 3px solid #27AE60;
 	padding-left: 18px;
-	padding-top: 10px;	
+	padding-top: 10px;
+	padding-bottom: 20px;
 	position: relative;
 	float: left;
 	
