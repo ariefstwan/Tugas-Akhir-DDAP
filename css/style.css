@@ -101,6 +101,55 @@
 /* DROPDOWN MENU END
 /*----------------------------------------*/
 
+/*----------------------------------------*/
+/* DROPDOWN SIDEBAR KATEGORI
+/*----------------------------------------*/
+
+
+.submenukategori {
+	display: none;
+}
+
+.menukategori:hover .submenukategori {
+	display: inline-block;
+	position: relative;
+	z-index: 2;
+}
+
+.menukategori:hover .submenukategori ul {
+	display: block;
+	margin: 2px;
+}
+
+.menukategori:hover .submenukategori ul li {
+	width: 150px;
+	padding: 2px;
+	margin: 2px;
+	background: transparent;
+	border-radius: 10px;
+	text-align: left;
+}
+
+.submenukategori li a {
+	font-size: 14px;
+	font-style: normal;
+	font-family: RobotoRegular;
+	color: #27AE60;
+}
+
+.submenukategori .fa {
+	color: #27AE60;
+}
+
+.submenukategori li a:hover {
+	color: #155c32;
+	border-radius: 10px;
+}
+
+/*----------------------------------------*/
+/* DROPDOWN SIDEBAR KATEGORI END
+/*----------------------------------------*/
+
 html,
 body {
 	height: 100%;
