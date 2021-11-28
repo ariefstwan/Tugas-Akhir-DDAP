@@ -146,6 +146,19 @@
 	border-radius: 10px;
 }
 
+.fa-table .fa-tags .fa-shopping-basket {
+	margin-right: 30px;
+}
+
+.fa-question {
+	margin-right: 7px;
+	margin-left: 5px;
+}
+
+.fa-chevron-down {
+	margin-left: 30px;
+}
+
 /*----------------------------------------*/
 /* DROPDOWN SIDEBAR KATEGORI END
 /*----------------------------------------*/
