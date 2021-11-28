@@ -51,6 +51,56 @@
 	font-weight: bold;
 }
 
+/*----------------------------------------*/
+/* DROPDOWN MENU
+/*----------------------------------------*/
+
+.submenuprofil {
+	display: none;
+}
+
+.menuprofil:hover .submenuprofil {
+	display: block;
+	position: absolute;
+	z-index: 2;
+	background: #000;
+	border-radius: 9px;
+}
+
+.menuprofil:hover .submenuprofil ul {
+	display: block;
+	margin: 2px;
+}
+
+.menuprofil:hover .submenuprofil ul li {
+	width: 150px;
+	padding: 2px;
+	margin: 2px;
+	background: transparent;
+	border-radius: 0;
+	text-align: left;
+}
+
+.submenuprofil li a {
+	font-size: 14px;
+	font-style: normal;
+	font-family: RobotoRegular;
+	color: #ffffff;
+}
+
+.submenuprofil .fa {
+	color: #fff;
+}
+
+.submenuprofil li a:hover {
+	background-color: #27AE60;
+	border-radius: 5px;
+}
+
+/*----------------------------------------*/
+/* DROPDOWN MENU END
+/*----------------------------------------*/
+
 html,
 body {
 	height: 100%;
