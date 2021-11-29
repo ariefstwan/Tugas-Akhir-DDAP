@@ -3308,6 +3308,7 @@ min-width: fit-content;
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	border-radius: 15px;
   }
   
 .btn-addcart {
