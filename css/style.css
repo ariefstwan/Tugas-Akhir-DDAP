@@ -485,7 +485,7 @@ ol {
 .primary-btn {
 	display: inline-block;
 	font-size: 14px;
-	padding: 10px;
+	padding: 10px 15px 10px;
 	color: #ffffff;
 	text-transform: uppercase;
 	font-weight: 700;
