@@ -374,7 +374,7 @@ ol {
 }
 
 .contact-form {
-	padding-top: 80px;
+	padding-top: 20px;
 	padding-bottom: 80px;
 }
 
@@ -1422,6 +1422,20 @@ ol {
 	position: absolute;
 	visibility: hidden;
 }
+
+
+/*---------------------
+  Profile 
+-----------------------*/
+.center-profilku {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50px;
+	width: 200px;
+	height: 200px;
+}
+
 
 /*---------------------
   Shop Grid
