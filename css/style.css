@@ -502,7 +502,7 @@ ol {
 	padding: 13px 30px 12px;
 	background: #27AE60;
 	border: none;
-	border-radius: 0px 15px 15px 0px;
+	border-radius: 15px;
 }
 
 .ite-btn {
