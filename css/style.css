@@ -2116,6 +2116,34 @@ color:#68727d;
 	color: #666666;
 }
 
+
+
+
+/*----------------------------------------*/
+/* BANTUAN
+/*----------------------------------------*/
+
+.bantuanh2-chatdenganadmin {
+	margin-top: 10px;
+}
+
+.bantuanh6-chatdenganadmin {
+	margin-top: 20px;
+}
+
+.gambarhubungikami {
+	margin-top: 50px;
+	width: 200px;
+}
+
+/*----------------------------------------*/
+/* BANTUAN END
+/*----------------------------------------*/
+
+
+
+
+
 /*---------------------
   Shop Details
 -----------------------*/
@@ -2127,6 +2155,12 @@ color:#68727d;
 .related__product__title {
 	margin-bottom: 70px;
 }
+
+
+
+
+
+
 
 /*---------------------
   Shop Cart
