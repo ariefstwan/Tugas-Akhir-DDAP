@@ -265,6 +265,10 @@ img {
 	max-width: 100%;
 }
 
+.gambarjerukbali {
+	border-radius: 15px;
+}
+
 input:focus,
 select:focus,
 button:focus,
@@ -1177,7 +1181,7 @@ ol {
 	position: relative;
 	background: #f8f8f8;
 	border: 1px solid #dcdcdc;
-	
+	border-radius: 15px;
 }
 
 
