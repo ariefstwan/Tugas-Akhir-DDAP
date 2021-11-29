@@ -457,7 +457,7 @@ ol {
 
 
 .spad {
-	padding-top: 100px;
+	padding-top: 10px;
 	padding-bottom: 100px;
 }
 
@@ -3058,6 +3058,11 @@ ol {
 .contact__form__title h2 {
 	color: #1c1c1c;
 	font-weight: 700;
+}
+
+.contact-form {
+	padding-top: 10px;
+	padding-bottom: 80px;
 }
 
 .contact-form form input {
