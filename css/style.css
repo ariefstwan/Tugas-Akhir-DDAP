@@ -4201,3 +4201,20 @@ min-width: fit-content;
 		font-size: 24px;
 	}
 }
+
+
+
+/* Selengkapnya
+	DETAIL PRODUK
+*/
+
+
+.selengkapnya a {
+	font-family: RobotoRegular;
+	font-size: 18px;
+	color: #27AE60;
+}
+
+.selengkapnya:hover {
+	color: #1d8649;
+}
