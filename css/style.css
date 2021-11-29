@@ -2947,7 +2947,8 @@ color:#68727d;
 
 .footer__widget h6 {
 	color: #1c1c1c;
-	font-weight: 700;
+	font-family: 'RobotoBold';
+    	font-weight: bold;
 	margin-bottom: 10px;
 }
 
