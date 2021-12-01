@@ -781,8 +781,8 @@ ol {
 }
 
 .hero__search__vm {
-	width: 300px;
-	height: 100px;
+	width: 350px;
+	height: 150px;
 	border: 1px solid #27AE60;
 	position: relative;
 	float: left;
@@ -806,8 +806,8 @@ ol {
 }
 
 .hero__search__tb {
-	width: 300px;
-	height: 100px;
+	width: 350px;
+	height: 150px;
 	border: 1px solid #27AE60;
 	position: relative;
 	float: right;
