@@ -768,16 +768,15 @@ ol {
 }
 
 .hero__search__furmm {
-	width: 650px;
+	width: 800px;
 	height: 280px;
 	border: 1px solid #27AE60;
 	padding-left: 18px;
-	padding-top: 15px;	
+	padding-top: 15px;
 	padding-bottom: 20px;
 	position: relative;
 	left: 10%;
-	margin-left: -10px;
-	
+	margin-left: -82px;
 }
 
 .hero__search__vm {
