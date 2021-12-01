@@ -1102,6 +1102,7 @@ ol {
 }
 .alignright {
 	float: right;
+	margin-right: 21;
 }
 
 .hero.hero-normal .hero__search {
