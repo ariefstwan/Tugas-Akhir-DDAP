@@ -1,10 +1,5 @@
-# Tugas-Akhir-DDAP
+# Pemilihan Mawapres FILKOM 2022
 
-<h2>Anggota Kelompok :</h2>
-<ul>
-<li>1. Arief Setiawan</li>
-<li>2. Adin Ilham Fahrezi</li> 
-<li>3. Fani Putri Pratama</li>
-<li>4. Muhammad Nauval Al-Aizar Romadhon</li>
-<li>5. Muhammad Raihan Rusjdy</li>
-</ul>
+<h3>Nama: Arief Setiawan</h3>
+<h3>NIM: 205150401111055</h3>
+
